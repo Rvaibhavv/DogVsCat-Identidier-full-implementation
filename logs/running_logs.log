@@ -153,3 +153,8 @@
 [2024-01-28 15:56:16,012: INFO: common: created directory at: artifacts\model_trainer]
 [2024-01-28 15:57:31,375: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.]
 [2024-01-28 15:57:32,473: INFO: builder_impl: Assets written to: ram://00899be3-846c-4582-9d15-9a8dfc64de0b/assets]
+[2024-01-28 16:04:05,823: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-28 16:04:05,824: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-28 16:04:05,826: INFO: common: created directory at: artifacts]
+[2024-01-28 16:04:05,827: INFO: common: created directory at: artifacts\model_trainer]
+[2024-01-28 16:05:19,282: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 3 of 3). These functions will not be directly callable after loading.]
