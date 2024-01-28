@@ -1,0 +1,4 @@
+CNN:
+  batch_size: 32
+  image_width: 256
+  image_height: 256
