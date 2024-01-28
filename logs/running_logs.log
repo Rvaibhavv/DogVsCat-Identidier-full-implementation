@@ -37,3 +37,7 @@
 [2024-01-28 12:54:09,429: INFO: common: yaml file: params.yaml loaded successfully]
 [2024-01-28 12:54:09,429: INFO: common: created directory at: artifacts]
 [2024-01-28 12:54:09,429: INFO: common: created directory at: artifacts\model_trainer]
+[2024-01-28 13:03:11,358: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-28 13:03:11,368: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-28 13:03:11,368: INFO: common: created directory at: artifacts]
+[2024-01-28 13:03:11,374: INFO: common: created directory at: artifacts\model_trainer]
