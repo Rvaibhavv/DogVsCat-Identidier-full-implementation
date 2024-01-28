@@ -6,3 +6,4 @@ CNN:
   epoch_val: 1
   loss_func: binary_crossentropy
   optimizer: adam
+  neurons_no: [128,64,32,16,8,4,2,1]

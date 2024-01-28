@@ -12,3 +12,11 @@ model_trainer:
   train_data_path: artifacts\data_ingestion\train
   test_data_path: artifacts\data_ingestion\test
   model_name: model.h5
+
+model_evaluation:
+  root_dir: artifacts\model_evaluation
+  train_data_path: artifacts\data_ingestion\train
+  test_data_path: artifacts\data_ingestion\test
+  
+
+  
