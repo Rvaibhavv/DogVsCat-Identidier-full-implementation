@@ -17,6 +17,9 @@ model_evaluation:
   root_dir: artifacts\model_evaluation
   train_data_path: artifacts\data_ingestion\train
   test_data_path: artifacts\data_ingestion\test
+  metric_file_name: artifacts\model_evaluation\metrics.json
+  model_path: artifacts\model_trainer\model.h5
+  mlflow_uri: https://dagshub.com/Rvaibhavv/DogVsCat-Identidier-full-implementation.mlflow
   
 
   
