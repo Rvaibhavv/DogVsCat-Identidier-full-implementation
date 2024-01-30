@@ -451,3 +451,8 @@
 [2024-01-30 20:23:30,008: INFO: common: created directory at: artifacts]
 [2024-01-30 20:23:30,009: INFO: common: created directory at: artifacts\model_evaluation]
 [2024-01-30 20:23:39,315: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-01-30 20:24:33,465: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-01-30 20:24:33,468: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-01-30 20:24:33,468: INFO: common: created directory at: artifacts]
+[2024-01-30 20:24:33,468: INFO: common: created directory at: artifacts\model_evaluation]
+[2024-01-30 20:24:43,649: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
